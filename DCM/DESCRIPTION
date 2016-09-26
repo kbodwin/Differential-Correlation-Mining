@@ -1,0 +1,9 @@
+Package: DCM
+Type: Package
+Title: Differential Correlation Mining
+Version: 1.0
+Date: 2014-05-12
+Author: Kelly Bodwin
+Maintainer: Kelly Bodwin <kbodwin@live.unc.edu>
+Description: Takes two high-dimensional matrices with matching row labels.  Identifies row sets that are significantly more correlated in one matrix than in the other.
+License:  GPL-2
