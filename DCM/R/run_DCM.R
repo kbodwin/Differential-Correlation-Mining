@@ -71,6 +71,7 @@ function(M1, M2, seed, del = c(), echo = FALSE, alpha = 0.05, max.iter = 50){
 		
 			
 		## Calculate p-values for rows in A
+		## CHANGE THIS PART
 		
 		# Adjust means to not include row
 		mean1s = -t(t(xA1) - mean1*k)/(k-1)
