@@ -1,3 +1,3 @@
 # Differential-Correlation-Mining
 
-I am practicing RStudio and Git, don't mind me.
+Code packages for Differential Correlation Mining.  (See paper.)
