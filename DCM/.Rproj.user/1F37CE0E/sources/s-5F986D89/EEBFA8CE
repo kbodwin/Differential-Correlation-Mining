@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533759828962.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EEBFA8CE",
+    "lastKnownWriteTime" : 1533760077,
+    "last_content_update" : 1533760077,
+    "path" : "C:/Users/kbodwin/Dropbox/GitHub/Differential-Correlation-Mining/DCM/R/run_DCM.R",
+    "project_path" : "R/run_DCM.R",
+    "properties" : {
+        "cursorPosition" : "73,2",
+        "scrollLine" : "67"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
